@@ -10,4 +10,3 @@ Agentic RAG LlamaIndex is a simple overview project that combines Retrieval-Augm
 - Integration with LlamaIndex for efficient data indexing and retrieval
 - Agentic behavior for improved context understanding and task completion
 
-=
